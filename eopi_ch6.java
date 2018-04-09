@@ -59,4 +59,8 @@ public class eopi_ch6 {
     }
     return arr;
   }
+
+  public static int[] arbitraryPrecisionNumber(int [] arr){
+    return [];
+  }
 }
